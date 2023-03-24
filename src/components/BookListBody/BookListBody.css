@@ -1,0 +1,29 @@
+.BookListBody {
+  display: flex;
+  flex-wrap: wrap;
+  min-height: 40px;
+}
+  
+.BookListBody-row {
+  display: flex;
+  min-height: 50px;
+  width: 100%;
+}
+
+.BookListBody-row-column {
+  margin-top: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+  
+.col1 {
+  width: 10%;
+}
+  
+.col2 {
+  width: 20%;
+}
+  
+.col3 {
+  width: 30%;
+}

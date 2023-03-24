@@ -1,0 +1,15 @@
+.Header-header {
+  display: flex;
+  align-items: center;
+  height: 40px;
+}
+
+.Header-header-title {
+  width: 70%;
+}
+
+.Header-header-account {
+  width: 30%;
+  display: flex;
+  align-items: baseline;
+}
